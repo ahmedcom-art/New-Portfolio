@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ahmedcom-art.github.io/New-Portfolio/sitemap.xml
